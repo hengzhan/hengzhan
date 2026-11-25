@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I write code.
-- I'm not good at doing things.
-- I'm interested in everything.
+- I have too many interests.
+- Sometimes I finish things.
 <!--
 **hengzhan/hengzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
